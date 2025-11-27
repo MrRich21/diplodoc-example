@@ -9,6 +9,8 @@ items:
     href: anotherpage.md
   - name: AW-BI
     href: aw.md
+  - name: test
+    href: aw.md      
   - name: Подраздел
     include:
       path: sub-section/toc.yaml
